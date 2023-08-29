@@ -1,3 +1,4 @@
+
 #syntax is the way we write code
 # print("Hello World")
 # name = john
@@ -47,3 +48,5 @@ print()
 print(word.replace("Blue", "red"))
 print()
 print(word)
+
+print (word[0:-40])
